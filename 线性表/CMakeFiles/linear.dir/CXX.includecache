@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangbo/Documents/GitHub/algorithm/线性表/linear.cpp
+linear.h
+/Users/wangbo/Documents/GitHub/algorithm/线性表/linear.h
+
+/Users/wangbo/Documents/GitHub/algorithm/线性表/linear.h
+stdlib.h
+-
+iostream
+-
+

@@ -1,0 +1,5 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+PROJECT(linear)
+include_directories(.)
+set(SRC linear.cpp)
+add_executable(linear ${SRC})
